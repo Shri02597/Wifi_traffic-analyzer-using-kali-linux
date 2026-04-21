@@ -74,3 +74,5 @@ sudo airmon-ng stop wlan0mon
 
 Restart network services
 sudo service NetworkManager restart
+<img width="1916" height="839" alt="Screenshot 2026-02-28 001836" src="https://github.com/user-attachments/assets/c71cb506-0407-4c1f-a0a6-62d4deecb1f5" />
+
